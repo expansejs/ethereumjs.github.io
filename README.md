@@ -50,7 +50,7 @@ Some of these may have provide additioanl information/insight or prove to hold f
 * [node-devp2p-manager](https://github.com/ethereumjs/node-devp2p-manager): peer manager for DPT & RLPx | Repository empty.
 * [organization](https://github.com/ethereumjs/organization) and [ideas](https://github.com/ethereumjs/ideas): plans and discussions
 
-## Ethereum JS projects not tracked here
+## Expanse JS projects not tracked here
 * [web3.js](https://github.com/expanse-org/web3.js): the complete API as seen in the [wiki](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 * [solidity.js](https://github.com/expanse-org/solidity.js): ABI encoding and decoding (the relevant code split out from web3.js)
 
